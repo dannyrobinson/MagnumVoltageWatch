@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "dannyrobinson@gmail.com",
+    "longName": "Voltage Monitor",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/MIcon.png",
+                "menuIcon": true,
+                "name": "MINI_ICON_28",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Voltage Monitor",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "7ca61260-6513-4821-a626-ccfe9dedbd1d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
